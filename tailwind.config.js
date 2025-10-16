@@ -2,7 +2,7 @@
 const forms = require('@tailwindcss/forms');
 const typography = require('@tailwindcss/typography');
 const aspectRatio = require('@tailwindcss/aspect-ratio');
-const animation = require('tailwindcss-animatedfly');
+const animation = require('tailwindcss-animate');
 module.exports = {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
