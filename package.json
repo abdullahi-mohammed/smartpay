@@ -22,7 +22,7 @@
     "ethers": "^6.15.0",
     "jest": "^27.5.1",
     "lucide-react": "^0.511.0",
-    "next": "^15.4.6",
+    "next": "15.4.10",
     "prettier": "^3.6.2",
     "qrcode.react": "^4.2.0",
     "react": "^18.2.0",
